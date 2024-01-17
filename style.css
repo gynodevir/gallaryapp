@@ -45,7 +45,8 @@ img {
 .zoomed-image {
     width: 80%;
     height: 100%;
-    margin-top: 10%;
+   
+    margin-bottom: 20%;
 }
 .remove-button {
     position: absolute;
