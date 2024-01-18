@@ -73,7 +73,7 @@ function handleImageClick(e) {
         // Remove the overlay when clicked
         overlay.remove();
     });
-}
+}//Now swap images function 
 
 function swapImages(container, dragged, target) {
     const containerChildren = Array.from(container.children);
